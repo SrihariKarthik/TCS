@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TxtAnalyz/1.0.0": {
+        "dependencies": {
+          "VerbBuilder": "1.0.0"
+        },
+        "runtime": {
+          "TxtAnalyz.dll": {}
+        }
+      },
+      "VerbBuilder/1.0.0": {
+        "runtime": {
+          "VerbBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TxtAnalyz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VerbBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

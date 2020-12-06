@@ -1,0 +1,9 @@
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\bin\Debug\netcoreapp3.1\VerbBuilder.deps.json
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\bin\Debug\netcoreapp3.1\VerbBuilder.dll
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\bin\Debug\netcoreapp3.1\VerbBuilder.pdb
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\obj\Debug\netcoreapp3.1\VerbBuilder.csprojAssemblyReference.cache
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\obj\Debug\netcoreapp3.1\VerbBuilder.AssemblyInfoInputs.cache
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\obj\Debug\netcoreapp3.1\VerbBuilder.AssemblyInfo.cs
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\obj\Debug\netcoreapp3.1\VerbBuilder.csproj.CoreCompileInputs.cache
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\obj\Debug\netcoreapp3.1\VerbBuilder.dll
+C:\NEWHOME\RandD\TxtAnalyz\VerbBuilder\obj\Debug\netcoreapp3.1\VerbBuilder.pdb

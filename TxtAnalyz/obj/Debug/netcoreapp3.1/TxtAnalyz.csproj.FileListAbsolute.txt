@@ -1,0 +1,16 @@
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\TxtAnalyz.exe
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\TxtAnalyz.deps.json
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\TxtAnalyz.runtimeconfig.json
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\TxtAnalyz.runtimeconfig.dev.json
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\TxtAnalyz.dll
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\TxtAnalyz.pdb
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\VerbBuilder.dll
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\bin\Debug\netcoreapp3.1\VerbBuilder.pdb
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.csprojAssemblyReference.cache
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.AssemblyInfoInputs.cache
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.AssemblyInfo.cs
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.csproj.CoreCompileInputs.cache
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.csproj.CopyComplete
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.dll
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.pdb
+C:\NEWHOME\RandD\TxtAnalyz\TxtAnalyz\obj\Debug\netcoreapp3.1\TxtAnalyz.genruntimeconfig.cache

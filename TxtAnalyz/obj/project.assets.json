@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VerbBuilder/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/VerbBuilder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VerbBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VerbBuilder/1.0.0": {
+      "type": "project",
+      "path": "../VerbBuilder/VerbBuilder.csproj",
+      "msbuildProject": "../VerbBuilder/VerbBuilder.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "VerbBuilder >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rajuk\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\NEWHOME\\RandD\\TxtAnalyz\\TxtAnalyz\\TxtAnalyz.csproj",
+      "projectName": "TxtAnalyz",
+      "projectPath": "C:\\NEWHOME\\RandD\\TxtAnalyz\\TxtAnalyz\\TxtAnalyz.csproj",
+      "packagesPath": "C:\\Users\\rajuk\\.nuget\\packages\\",
+      "outputPath": "C:\\NEWHOME\\RandD\\TxtAnalyz\\TxtAnalyz\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rajuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\NEWHOME\\RandD\\TxtAnalyz\\VerbBuilder\\VerbBuilder.csproj": {
+              "projectPath": "C:\\NEWHOME\\RandD\\TxtAnalyz\\VerbBuilder\\VerbBuilder.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}
